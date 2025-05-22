@@ -1,5 +1,5 @@
 <?php
 
-echo "Salom dunyo";
+echo "Salom dunyo1";
 
 ?>
